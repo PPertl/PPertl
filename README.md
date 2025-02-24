@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PPertl
-- 👀 I’m interested in FullStack development
-- 🌱 I’m currently learning Go and Docker
 
 <!---
 PPertl/PPertl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
